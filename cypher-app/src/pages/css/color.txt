@@ -1,0 +1,2 @@
+light purple #F8EFFF
+lighter darker purple #EEB5F8
