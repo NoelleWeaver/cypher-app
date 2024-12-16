@@ -5,9 +5,64 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.exit-btn {
+  position: relative;
+  float: right;
+  margin-right: 20px;
+}
+
+/* Homepage Styling */
+
+.home-title {
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.homepage-btns {
+  padding: 10px 20px;
+}
+
+.how-to-play-btn {
+  padding: 5px 10px;
+  margin: 10px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.start-btn {
+  padding: 5px 40px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.leader-btn {
+  padding: 5px 10px;
+  margin: 10px;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+/* Level Page Styling */
+
+/* Game Page Styling */
+
+/* How To Play Styling */
+
+/* Leaderboard Styling */
+
