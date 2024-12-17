@@ -9,7 +9,7 @@ import LeaderboardPage from './pages/LeaderboardPage';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 const router = createBrowserRouter([
-  { path: '/home', element: <HomePage /> },
+  { path: '/', element: <HomePage /> },
   // { path: '/levels', element: <LevelPage /> },
   { path: '/game', element: <GamePage /> },
   { path: '/how-to-play', element: <HowToPlayPages /> },
