@@ -3,7 +3,7 @@ import React from 'react'
 const LeaderboardPage = () => {
   return (
     <body>
-        <button class="exit-btn">exit</button>
+        <button className="exit-btn">exit</button>
         <h1 className="leader-title">Leaderboard</h1>
         <div className="leaderboard-container">
           <div className="players">
